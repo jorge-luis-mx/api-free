@@ -1,0 +1,22 @@
+body{
+   background-color: cadetblue;
+   color: white;
+   font-weight: 600;
+}
+.contenedor{
+   max-width: 1100px;
+   margin: 0 auto;
+
+}
+
+.ordenamiento{
+   display: flex;
+   justify-content: space-between;
+
+}
+.cajas{
+   width: 400px;
+}
+h1{
+   text-align: center;
+}
